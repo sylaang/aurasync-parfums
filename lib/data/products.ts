@@ -80,7 +80,7 @@ export const products: Product[] = [
       },
       {
         id: 2,
-        src: "https://images.pexels.com/photos/190837/pexels-photo-190837.jpeg?auto=compress&cs=tinysrgb&w=600",
+        src: "/velour-noir.jpg",
         alt: "Emballage Velours Noir"
       }
     ],
@@ -454,7 +454,7 @@ export const collections = [
     id: "c2",
     name: "Collection orientale",
     description: "Des parfums riches et épicés inspirés de l'Orient",
-    image: "https://images.pexels.com/photos/4110450/pexels-photo-4110450.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "/Collection-orientale.jpg",
     slug: "oriental"
   },
   {
